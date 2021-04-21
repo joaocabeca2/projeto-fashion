@@ -1,0 +1,106 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.firstheader{
+    width: 90%;
+    height: 550px;
+    margin: 30px auto;
+    background-image: url(../imgs/topo.jpg);
+    background-size: cover;
+
+}
+.firstheader nav{
+    background-color: #082727;
+    padding: 0;
+    margin: 0;
+}
+.firstheader img{
+    margin-left: 180px;
+}
+.firstheader nav ul{
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+.firstheader  nav li{
+    display: inline-block;
+    margin: 0 15px 0 0;
+}
+.firstheader nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: #0e6464;
+    padding-right: 10px;
+}
+
+.firstmain{
+    width: 90%;
+    margin: auto;
+}
+#firstmain{
+    width: 72%;
+    margin: auto;
+}
+.firstmain h1,p{
+    text-align: center;
+}
+
+#secondmain{
+    margin-top: 50px;
+}
+
+section{
+    display: inline-block;
+    margin: 15px;
+}
+section h3,h4{
+    text-align: center;
+}
+section h4{
+    color: grey;
+}
+
+.firstarticle div{
+    width: 90%;
+    height: 500px   
+}
+.firstarticle{
+    background-image: url(../imgs/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.firstarticle h1{
+    font-size: 38px;
+    text-align: left;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 400px;
+    margin-left: 80px;
+}
+
+
+.firstarticle p{
+    text-align: left;
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 500px;
+    margin-left: 80px;
+}
+
+#thirdmain h2{
+    color: #0e6464;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer{
+    background-color: #082727;
+    color: #0e6464;
+    padding: 5px;
+    margin: 20px 68px;
+
+}
